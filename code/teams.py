@@ -47,14 +47,14 @@ teams_data = [
         "name": "Torpedo",
         "budget": 950,
         "players": [
-            {"name": "Egor Vinogradov", "position": "Forward", "skill": 87, "price": 104},
-            {"name": "Vladimir Tkachyov", "position": "Forward", "skill": 89, "price": 108},
-            {"name": "Vasiliy Atanasov", "position": "Forward", "skill": 91, "price": 112},
-            {"name": "Maxim Letunov", "position": "Forward", "skill": 90, "price": 110},
-            {"name": "Mihail Naumenkov", "position": "Defender", "skill": 87, "price": 82},
-            {"name": "Denis Aleksandrov", "position": "Defender", "skill": 86, "price": 80},
-            {"name": "Bogdan Konyushkov", "position": "Defender", "skill": 89, "price": 86},
-            {"name": "Dmitriy Shugayev", "position": "Goalkeeper", "skill": 86, "price": 98}
+            {"name": "Egor Vinogradov", "position": "Forward", "skill": 85, "price": 104},
+            {"name": "Vladimir Tkachyov", "position": "Forward", "skill": 86, "price": 108},
+            {"name": "Vasiliy Atanasov", "position": "Forward", "skill": 88, "price": 112},
+            {"name": "Maxim Letunov", "position": "Forward", "skill": 87, "price": 110},
+            {"name": "Mihail Naumenkov", "position": "Defender", "skill": 84, "price": 82},
+            {"name": "Denis Aleksandrov", "position": "Defender", "skill": 83, "price": 80},
+            {"name": "Bogdan Konyushkov", "position": "Defender", "skill": 86, "price": 86},
+            {"name": "Dmitriy Shugayev", "position": "Goalkeeper", "skill": 83, "price": 98}
         ]
     },
     {
@@ -75,14 +75,14 @@ teams_data = [
         "name": "Severstal",
         "budget": 1000,
         "players": [
-            {"name": "Danil Aimurzin", "position": "Forward", "skill": 89, "price": 108},
-            {"name": "Adam Lishka", "position": "Forward", "skill": 88, "price": 106},
-            {"name": "Ivan Abrosimov", "position": "Forward", "skill": 89, "price": 108},
-            {"name": "Ilya Ivanzov", "position": "Forward", "skill": 87, "price": 104},
-            {"name": "Vladimir Grudinin", "position": "Defender", "skill": 88, "price": 84},
-            {"name": "Ivan Ershov", "position": "Defender", "skill": 88, "price": 84},
-            {"name": "Nick Kamalov", "position": "Defender", "skill": 87, "price": 82},
-            {"name": "Konstantin Shostak", "position": "Goalkeeper", "skill": 90, "price": 106}
+            {"name": "Danil Aimurzin", "position": "Forward", "skill": 85, "price": 108},
+            {"name": "Adam Lishka", "position": "Forward", "skill": 84, "price": 106},
+            {"name": "Ivan Abrosimov", "position": "Forward", "skill": 85, "price": 108},
+            {"name": "Ilya Ivanzov", "position": "Forward", "skill": 83, "price": 104},
+            {"name": "Vladimir Grudinin", "position": "Defender", "skill": 84, "price": 84},
+            {"name": "Ivan Ershov", "position": "Defender", "skill": 84, "price": 84},
+            {"name": "Nick Kamalov", "position": "Defender", "skill": 83, "price": 82},
+            {"name": "Konstantin Shostak", "position": "Goalkeeper", "skill": 86, "price": 106}
         ]
     },
     {
@@ -95,7 +95,7 @@ teams_data = [
             {"name": "Vitaliy Pinchuk", "position": "Forward", "skill": 90, "price": 110},
             {"name": "Kristian Henkel", "position": "Defender", "skill": 89, "price": 86},
             {"name": "Pavel Denisov", "position": "Defender", "skill": 87, "price": 82},
-            {"name": "Darren Diz", "position": "Defender", "skill": 86, "price": 80},
+            {"name": "Darren Diz", "position": "Defender", "skill": 89, "price": 80},
             {"name": "Zack Fukale", "position": "Goalkeeper", "skill": 89, "price": 104}
         ]
     },
@@ -108,8 +108,8 @@ teams_data = [
             {"name": "Artur Kayumov", "position": "Forward", "skill": 97, "price": 112},
             {"name": "Pavel Kraskovskiy", "position": "Forward", "skill": 95, "price": 110},
             {"name": "Martin Gernat", "position": "Defender", "skill": 96, "price": 88},
-            {"name": "Aleksey Bereglazov", "position": "Defender", "skill": 94, "price": 88},
-            {"name": "Alex Yelesin", "position": "Defender", "skill": 95, "price": 88},
+            {"name": "Aleksey Bereglazov", "position": "Defender", "skill": 97, "price": 88},
+            {"name": "Alex Yelesin", "position": "Defender", "skill": 97, "price": 88},
             {"name": "Daniil Isaev", "position": "Goalkeeper", "skill": 98, "price": 108}
         ]
     },
