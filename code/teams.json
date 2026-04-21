@@ -168,49 +168,49 @@
             {
                 "name": "Egor Vinogradov",
                 "position": "Forward",
-                "skill": 87,
+                "skill": 85,
                 "price": 104
             },
             {
                 "name": "Vladimir Tkachyov",
                 "position": "Forward",
-                "skill": 89,
+                "skill": 86,
                 "price": 108
             },
             {
                 "name": "Vasiliy Atanasov",
                 "position": "Forward",
-                "skill": 91,
+                "skill": 88,
                 "price": 112
             },
             {
                 "name": "Maxim Letunov",
                 "position": "Forward",
-                "skill": 90,
+                "skill": 87,
                 "price": 110
             },
             {
                 "name": "Mihail Naumenkov",
                 "position": "Defender",
-                "skill": 87,
+                "skill": 84,
                 "price": 82
             },
             {
                 "name": "Denis Aleksandrov",
                 "position": "Defender",
-                "skill": 86,
+                "skill": 83,
                 "price": 80
             },
             {
                 "name": "Bogdan Konyushkov",
                 "position": "Defender",
-                "skill": 89,
+                "skill": 86,
                 "price": 86
             },
             {
                 "name": "Dmitriy Shugayev",
                 "position": "Goalkeeper",
-                "skill": 86,
+                "skill": 83,
                 "price": 98
             }
         ]
@@ -276,49 +276,49 @@
             {
                 "name": "Danil Aimurzin",
                 "position": "Forward",
-                "skill": 89,
+                "skill": 85,
                 "price": 108
             },
             {
                 "name": "Adam Lishka",
                 "position": "Forward",
-                "skill": 88,
+                "skill": 84,
                 "price": 106
             },
             {
                 "name": "Ivan Abrosimov",
                 "position": "Forward",
-                "skill": 89,
+                "skill": 85,
                 "price": 108
             },
             {
                 "name": "Ilya Ivanzov",
                 "position": "Forward",
-                "skill": 87,
+                "skill": 83,
                 "price": 104
             },
             {
                 "name": "Vladimir Grudinin",
                 "position": "Defender",
-                "skill": 88,
+                "skill": 84,
                 "price": 84
             },
             {
                 "name": "Ivan Ershov",
                 "position": "Defender",
-                "skill": 88,
+                "skill": 84,
                 "price": 84
             },
             {
                 "name": "Nick Kamalov",
                 "position": "Defender",
-                "skill": 87,
+                "skill": 83,
                 "price": 82
             },
             {
                 "name": "Konstantin Shostak",
                 "position": "Goalkeeper",
-                "skill": 90,
+                "skill": 86,
                 "price": 106
             }
         ]
@@ -366,7 +366,7 @@
             {
                 "name": "Darren Diz",
                 "position": "Defender",
-                "skill": 86,
+                "skill": 89,
                 "price": 80
             },
             {
@@ -384,49 +384,49 @@
             {
                 "name": "Alex Radulov",
                 "position": "Forward",
-                "skill": 90,
+                "skill": 96,
                 "price": 110
             },
             {
                 "name": "Egor Surin",
                 "position": "Forward",
-                "skill": 92,
+                "skill": 98,
                 "price": 114
             },
             {
                 "name": "Artur Kayumov",
                 "position": "Forward",
-                "skill": 91,
+                "skill": 97,
                 "price": 112
             },
             {
                 "name": "Pavel Kraskovskiy",
                 "position": "Forward",
-                "skill": 90,
+                "skill": 95,
                 "price": 110
             },
             {
                 "name": "Martin Gernat",
                 "position": "Defender",
-                "skill": 90,
+                "skill": 96,
                 "price": 88
             },
             {
                 "name": "Aleksey Bereglazov",
                 "position": "Defender",
-                "skill": 90,
+                "skill": 97,
                 "price": 88
             },
             {
                 "name": "Alex Yelesin",
                 "position": "Defender",
-                "skill": 90,
+                "skill": 97,
                 "price": 88
             },
             {
                 "name": "Daniil Isaev",
                 "position": "Goalkeeper",
-                "skill": 91,
+                "skill": 98,
                 "price": 108
             }
         ]
@@ -438,103 +438,103 @@
             {
                 "name": "Nick Mercly",
                 "position": "Forward",
-                "skill": 79,
+                "skill": 69,
                 "price": 58
             },
             {
                 "name": "Kevin Labank",
                 "position": "Forward",
-                "skill": 77,
+                "skill": 67,
                 "price": 54
             },
             {
                 "name": "Spencer Fu",
                 "position": "Forward",
-                "skill": 72,
+                "skill": 62,
                 "price": 44
             },
             {
                 "name": "Pavel Akolzin",
                 "position": "Forward",
-                "skill": 74,
+                "skill": 64,
                 "price": 48
             },
             {
                 "name": "Jake Bischoff",
                 "position": "Defender",
-                "skill": 74,
+                "skill": 64,
                 "price": 41
             },
             {
                 "name": "Riley Wil",
                 "position": "Defender",
-                "skill": 75,
+                "skill": 65,
                 "price": 42
             },
             {
                 "name": "Vladislav Leontyev",
                 "position": "Defender",
-                "skill": 76,
+                "skill": 66,
                 "price": 44
             },
             {
                 "name": "Patrick Rybar",
                 "position": "Goalkeeper",
-                "skill": 77,
+                "skill": 67,
                 "price": 54
             }
         ]
     },
     {
-        "name": "Lada",
+        "name": "lada",
         "budget": 430,
         "players": [
             {
                 "name": "Vladislav Chervonenko",
                 "position": "Forward",
-                "skill": 76,
+                "skill": 72,
                 "price": 52
             },
             {
                 "name": "Riley Savchuk",
                 "position": "Forward",
-                "skill": 76,
+                "skill": 72,
                 "price": 52
             },
             {
                 "name": "Andrey Chivilyov",
                 "position": "Forward",
-                "skill": 77,
+                "skill": 73,
                 "price": 54
             },
             {
                 "name": "Andrey Altybarmakyan",
                 "position": "Forward",
-                "skill": 75,
+                "skill": 71,
                 "price": 50
             },
             {
                 "name": "Willams Colbi",
                 "position": "Defender",
-                "skill": 77,
+                "skill": 72,
                 "price": 44
             },
             {
                 "name": "Daniil Bokun",
                 "position": "Defender",
-                "skill": 76,
+                "skill": 72,
                 "price": 42
             },
             {
                 "name": "Artem Zemchonok",
                 "position": "Defender",
-                "skill": 78,
+                "skill": 74,
                 "price": 46
             },
             {
                 "name": "Alex Trushkov",
                 "position": "Goalkeeper",
-                "skill": 77,
+                "skill": 73,
                 "price": 54
             }
         ]
@@ -546,49 +546,49 @@
             {
                 "name": "Willam Bitten",
                 "position": "Forward",
-                "skill": 77,
+                "skill": 70,
                 "price": 54
             },
             {
                 "name": "Timur Hafizov",
                 "position": "Forward",
-                "skill": 75,
+                "skill": 68,
                 "price": 50
             },
             {
                 "name": "Pavel Dedunov",
                 "position": "Forward",
-                "skill": 78,
+                "skill": 72,
                 "price": 56
             },
             {
                 "name": "Matvey Babenko",
                 "position": "Forward",
-                "skill": 77,
+                "skill": 71,
                 "price": 54
             },
             {
                 "name": "Danil Mokrushev",
                 "position": "Defender",
-                "skill": 75,
+                "skill": 67,
                 "price": 42
             },
             {
                 "name": "Cameron Li",
                 "position": "Defender",
-                "skill": 78,
+                "skill": 72,
                 "price": 46
             },
             {
                 "name": "Artem Volkov",
                 "position": "Defender",
-                "skill": 76,
+                "skill": 71,
                 "price": 42
             },
             {
                 "name": "Maxim Tretyak",
                 "position": "Goalkeeper",
-                "skill": 78,
+                "skill": 72,
                 "price": 56
             }
         ]
@@ -606,43 +606,43 @@
             {
                 "name": "Danil Yurtaikin",
                 "position": "Forward",
-                "skill": 78,
+                "skill": 72,
                 "price": 56
             },
             {
                 "name": "Ivan Vorobyov",
                 "position": "Forward",
-                "skill": 75,
+                "skill": 70,
                 "price": 50
             },
             {
                 "name": "Alex Broadherst",
                 "position": "Forward",
-                "skill": 77,
+                "skill": 72,
                 "price": 54
             },
             {
                 "name": "Yaroslav Dyblenko",
                 "position": "Defender",
-                "skill": 75,
+                "skill": 70,
                 "price": 42
             },
             {
                 "name": "Victor Antipin",
                 "position": "Defender",
-                "skill": 76,
+                "skill": 71,
                 "price": 42
             },
             {
                 "name": "Roman Abrosimov",
                 "position": "Defender",
-                "skill": 77,
+                "skill": 72,
                 "price": 44
             },
             {
                 "name": "Maxim Dorozhko",
                 "position": "Goalkeeper",
-                "skill": 78,
+                "skill": 73,
                 "price": 56
             }
         ]
@@ -654,49 +654,49 @@
             {
                 "name": "Emil Galimov",
                 "position": "Forward",
-                "skill": 75,
+                "skill": 70,
                 "price": 50
             },
             {
                 "name": "Maxim Mukhametov",
                 "position": "Forward",
-                "skill": 75,
+                "skill": 70,
                 "price": 50
             },
             {
                 "name": "Max Willman",
                 "position": "Forward",
-                "skill": 76,
+                "skill": 71,
                 "price": 52
             },
             {
                 "name": "Maison Morelly",
                 "position": "Forward",
-                "skill": 77,
+                "skill": 72,
                 "price": 54
             },
             {
                 "name": "Adil Beketaev",
                 "position": "Defender",
-                "skill": 76,
+                "skill": 71,
                 "price": 42
             },
             {
                 "name": "Dmitriy Breus",
                 "position": "Defender",
-                "skill": 78,
+                "skill": 73,
                 "price": 46
             },
             {
                 "name": "Jake Massi",
                 "position": "Defender",
-                "skill": 77,
+                "skill": 72,
                 "price": 44
             },
             {
                 "name": "Nick Boyarkin",
                 "position": "Goalkeeper",
-                "skill": 77,
+                "skill": 72,
                 "price": 54
             }
         ]
@@ -708,49 +708,49 @@
             {
                 "name": "Stepan Starkov",
                 "position": "Forward",
-                "skill": 78,
+                "skill": 71,
                 "price": 56
             },
             {
                 "name": "Pavel Shen",
                 "position": "Forward",
-                "skill": 78,
+                "skill": 71,
                 "price": 56
             },
             {
                 "name": "Nick Soshnikov",
                 "position": "Forward",
-                "skill": 79,
+                "skill": 72,
                 "price": 58
             },
             {
                 "name": "Vladislav Kara",
                 "position": "Forward",
-                "skill": 81,
+                "skill": 74,
                 "price": 62
             },
             {
                 "name": "Dmitriy Deryabin",
                 "position": "Defender",
-                "skill": 79,
+                "skill": 72,
                 "price": 48
             },
             {
                 "name": "Alex Shepelev",
                 "position": "Defender",
-                "skill": 80,
+                "skill": 73,
                 "price": 50
             },
             {
                 "name": "Semen Ibragimov",
                 "position": "Defender",
-                "skill": 78,
+                "skill": 71,
                 "price": 46
             },
             {
                 "name": "Arseniy Ziba",
                 "position": "Goalkeeper",
-                "skill": 78,
+                "skill": 71,
                 "price": 56
             }
         ]
@@ -762,49 +762,49 @@
             {
                 "name": "Arkhip Nekolenko",
                 "position": "Forward",
-                "skill": 84,
+                "skill": 78,
                 "price": 68
             },
             {
                 "name": "Ivan Klimovich",
                 "position": "Forward",
-                "skill": 85,
+                "skill": 79,
                 "price": 70
             },
             {
                 "name": "Sergey Shirokov",
                 "position": "Forward",
-                "skill": 87,
+                "skill": 81,
                 "price": 74
             },
             {
                 "name": "Teilor Beck",
                 "position": "Forward",
-                "skill": 88,
+                "skill": 82,
                 "price": 76
             },
             {
                 "name": "Egor Alanov",
                 "position": "Defender",
-                "skill": 86,
+                "skill": 80,
                 "price": 58
             },
             {
                 "name": "Mihail Orlov",
                 "position": "Defender",
-                "skill": 85,
+                "skill": 79,
                 "price": 56
             },
             {
                 "name": "Egor Zaizev",
                 "position": "Defender",
-                "skill": 85,
+                "skill": 79,
                 "price": 56
             },
             {
                 "name": "Anton Krasotkin",
                 "position": "Goalkeeper",
-                "skill": 86,
+                "skill": 80,
                 "price": 68
             }
         ]
@@ -816,49 +816,49 @@
             {
                 "name": "Nick Artamonov",
                 "position": "Forward",
-                "skill": 84,
+                "skill": 80,
                 "price": 68
             },
             {
                 "name": "Nick Horuzhev",
                 "position": "Forward",
-                "skill": 85,
+                "skill": 81,
                 "price": 70
             },
             {
                 "name": "Alex Dergachyov",
                 "position": "Forward",
-                "skill": 85,
+                "skill": 81,
                 "price": 70
             },
             {
                 "name": "Nick Popugayev",
                 "position": "Forward",
-                "skill": 85,
+                "skill": 81,
                 "price": 70
             },
             {
                 "name": "Dinar Hafizulin",
                 "position": "Defender",
-                "skill": 84,
+                "skill": 80,
                 "price": 54
             },
             {
                 "name": "Luka Profaka",
                 "position": "Defender",
-                "skill": 84,
+                "skill": 80,
                 "price": 52
             },
             {
                 "name": "Nick Hlystov",
                 "position": "Defender",
-                "skill": 83,
+                "skill": 79,
                 "price": 52
             },
             {
                 "name": "Yaroslav Ozolin",
                 "position": "Goalkeeper",
-                "skill": 84,
+                "skill": 80,
                 "price": 64
             }
         ]
@@ -918,7 +918,7 @@
         ]
     },
     {
-        "name": "Salavat Yulayev",
+        "name": "Salavat Yulaev",
         "budget": 700,
         "players": [
             {
@@ -1086,49 +1086,49 @@
             {
                 "name": "Andrew Poturalski",
                 "position": "Forward",
-                "skill": 89,
+                "skill": 91,
                 "price": 100
             },
             {
                 "name": "Okulov Konstantin",
                 "position": "Forward",
-                "skill": 90,
+                "skill": 93,
                 "price": 102
             },
             {
                 "name": "Nail Yakupov",
                 "position": "Forward",
-                "skill": 89,
+                "skill": 92,
                 "price": 100
             },
             {
                 "name": "Michael Mcleod",
                 "position": "Forward",
-                "skill": 92,
+                "skill": 95,
                 "price": 108
             },
             {
                 "name": "Marsel Ibragimov",
                 "position": "Defender",
-                "skill": 88,
+                "skill": 91,
                 "price": 88
             },
             {
                 "name": "Damir Sharipzyanov",
                 "position": "Defender",
-                "skill": 91,
+                "skill": 94,
                 "price": 94
             },
             {
                 "name": "Vyacheslav Voinov",
                 "position": "Defender",
-                "skill": 89,
+                "skill": 92,
                 "price": 90
             },
             {
                 "name": "Nick Serebryakov",
                 "position": "Goalkeeper",
-                "skill": 90,
+                "skill": 93,
                 "price": 107
             }
         ]
@@ -1140,49 +1140,49 @@
             {
                 "name": "Roman Kanzerov",
                 "position": "Forward",
-                "skill": 94,
+                "skill": 98,
                 "price": 120
             },
             {
                 "name": "Dmitriy Silantiev",
                 "position": "Forward",
-                "skill": 90,
+                "skill": 95,
                 "price": 106
             },
             {
                 "name": "Alex Petunin",
                 "position": "Forward",
-                "skill": 91,
+                "skill": 96,
                 "price": 108
             },
             {
                 "name": "Daniil Vovchenko",
                 "position": "Forward",
-                "skill": 89,
+                "skill": 95,
                 "price": 106
             },
             {
                 "name": "Egor Yakovlev",
                 "position": "Defender",
-                "skill": 87,
+                "skill": 94,
                 "price": 88
             },
             {
                 "name": "Valeriy Orekhov",
                 "position": "Defender",
-                "skill": 89,
+                "skill": 94,
                 "price": 92
             },
             {
                 "name": "Robin Press",
                 "position": "Defender",
-                "skill": 89,
+                "skill": 94,
                 "price": 92
             },
             {
                 "name": "Ilya Nabokov",
                 "position": "Goalkeeper",
-                "skill": 92,
+                "skill": 96,
                 "price": 110
             }
         ]
