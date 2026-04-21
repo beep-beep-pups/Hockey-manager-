@@ -303,7 +303,7 @@ teams_data = [
             {"name": "Dmitriy Silantiev", "position": "Forward", "skill": 95, "price": 106},
             {"name": "Alex Petunin", "position": "Forward", "skill": 96, "price": 108},
             {"name": "Daniil Vovchenko", "position": "Forward", "skill": 95, "price": 106},
-            {"name": "Egor Yakovlev", "position": "Defender", "skill": 84, "price": 88},
+            {"name": "Egor Yakovlev", "position": "Defender", "skill": 94, "price": 88},
             {"name": "Valeriy Orekhov", "position": "Defender", "skill": 94, "price": 92},
             {"name": "Robin Press", "position": "Defender", "skill": 94, "price": 92},
             {"name": "Ilya Nabokov", "position": "Goalkeeper", "skill": 96, "price": 110}
